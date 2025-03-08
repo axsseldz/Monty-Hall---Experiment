@@ -20,7 +20,7 @@ python -m venv env
 
 ## 3. Instalar dependencias
 
-Istalar `pygame`:
+Instalar `pygame`:
 
 ```sh
 pip install pygame
